@@ -93,3 +93,11 @@ Font licensing is in `dist/assets/FONT-LICENSE.txt`.
 
 The optional WebMCP search API is feature-detected. A supported WebMCP validation
 context was unavailable; ordinary catalog search does not depend on it.
+
+## Connect and Support cards
+
+Edit `support-links.json` to set the Discord invitation, Source repository,
+Sponsors and Ko-fi URLs. Use complete HTTPS links. Empty URLs display a visibly
+unavailable card instead of sending visitors to an invented destination.
+The shared section is rendered before the footer on every page and is preserved
+by automatic catalog rebuilds.
