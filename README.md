@@ -49,9 +49,6 @@ Game artwork and names belong to Orangepixel and Cairn4. Each port archive retai
 its own applicable licenses. Font licensing is in `dist/assets/FONT-LICENSE.txt`.
 The forge backdrop was created for this website.
 
-Workflow references: JeodC/RHH-Ports and Nextos-Port-Manager/Nextos_PortManager_web.
-This website does not copy their implementation or imply affiliation.
-
 Device reports are community observations, not a promise of support for all firmware.
 MewnBase 1.0.2 remains unverified. The Residual RGDS Panfrost input issue is recorded
 on its guide page.
