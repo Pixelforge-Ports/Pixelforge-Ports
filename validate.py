@@ -1,7 +1,7 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
-import hashlib, json, zipfile
+import json
 
 root = Path(__file__).resolve().parent/'dist'
 class Links(HTMLParser):
@@ -24,11 +24,14 @@ for file, page in pages.items():
         assert target.is_file(), (file,link)
         if url.fragment:assert url.fragment in pages[target].ids,(file,link)
 catalog=json.loads((root/'catalog.json').read_text())
-assert len(catalog)==12 and len({g['id'] for g in catalog})==12
+assert catalog and len({g['id'] for g in catalog})==len(catalog)
 for game in catalog:
-    path=root/'downloads'/game['zip']
-    assert hashlib.sha256(path.read_bytes()).hexdigest()==game['sha256']
-    with zipfile.ZipFile(path) as archive:assert archive.testzip() is None
+    assert game['repository'].startswith('https://github.com/Pixelforge-Ports/')
+    if game['download_url']:
+        assert game['download_url'].startswith(game['repository']+'/releases/download/')
+        assert game['version'] and game['size']>0
+    else:assert game['version'] is None
     assert (root/'guides'/(game['id']+'.html')).is_file()
 assert (root/'assets/forge.png').is_file()
-print('PASS: 14 HTML pages, local assets and anchors, 12 guides, 12 ZIP downloads and SHA-256 checksums.')
+assert not list((root/'downloads').glob('*.zip')), 'Local ZIP copies must not be published'
+print(f'PASS: {len(pages)} pages, local assets and anchors, {len(catalog)} GitHub ports and release URL boundaries.')

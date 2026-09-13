@@ -1,155 +1,197 @@
 [
   {
     "id": "residual",
+    "zip": "residual.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/residual_port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Residual",
-    "description": "Explore alien planets, gather resources and repair your ship in a procedurally generated survival platformer.",
+    "description": "Explore alien planets, gather resources and repair your ship in this procedurally generated survival platformer by Orangepixel.",
     "genres": [
       "action",
       "platformer"
-    ],
-    "zip": "Residual.zip",
-    "size": 51970,
-    "sha256": "2479d759e854053f6e05134c8c9e8abe4f5057d1429e91105bcf48eb8484c9f3",
-    "file": "residual.jar"
-  },
-  {
-    "id": "mewnbase",
-    "title": "MewnBase",
-    "description": "Explore an alien planet as a space cat, gather resources and build a base to survive.",
-    "genres": [
-      "simulation",
-      "adventure"
-    ],
-    "zip": "MewnBase.zip",
-    "size": 263649,
-    "sha256": "5d1c817132a4577c6a86834ccab992e18ea489b916077bbbbbb4a0e624f288ee",
-    "file": "game/desktop-1.0.jar"
+    ]
   },
   {
     "id": "ashworld",
+    "zip": "Ashworld.zip",
+    "size": 59953,
+    "sha256": "656ea9b73a39e2d739332231bbe22299184baf2236828df998dcc6284cdcbcba",
+    "repository": "https://github.com/Pixelforge-Ports/ashworld-arm-linux",
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/ashworld-arm-linux/releases/download/1.0.1/Ashworld.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/ashworld-arm-linux/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": true,
     "title": "Ashworld",
     "description": "Survive a pixel-art wasteland, scavenge buildings, drive vehicles and fight its inhabitants.",
     "genres": [
       "action",
       "platformer"
-    ],
-    "zip": "Ashworld.zip",
-    "size": 59953,
-    "sha256": "656ea9b73a39e2d739332231bbe22299184baf2236828df998dcc6284cdcbcba",
-    "file": "ashworld.dat"
+    ]
   },
   {
     "id": "gunslugs2",
+    "zip": "Gunslugs2.zip",
+    "size": 47157,
+    "sha256": "b9b83fdc06a2b56644abc5041dcd5c812c9daf9c66ba21e4d932fc5881b2e1cc",
+    "repository": "https://github.com/Pixelforge-Ports/gunslugs2-port",
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/gunslugs2-port/releases/download/1.0.1/Gunslugs2.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/gunslugs2-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": false,
     "title": "Gunslugs 2",
     "description": "Run, jump and shoot through chaotic action-platforming missions against the Black Duck Army.",
     "genres": [
       "action",
       "platformer"
-    ],
-    "zip": "Gunslugs2.zip",
-    "size": 47157,
-    "sha256": "b9b83fdc06a2b56644abc5041dcd5c812c9daf9c66ba21e4d932fc5881b2e1cc",
-    "file": "Gunslugs2.jar"
+    ]
   },
   {
     "id": "gunslugs3",
+    "zip": "Gunslugs3.zip",
+    "size": 9547404,
+    "sha256": "ca2b9648a43cc1bcedb51826ad215283475a8ceefaa5644a172305b7bd7d7bd2",
+    "repository": "https://github.com/Pixelforge-Ports/gunslugs3-port",
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/gunslugs3-port/releases/download/1.0.1/Gunslugs3.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/gunslugs3-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": false,
     "title": "Gunslugs 3 Rogue Tactics",
     "description": "Choose stealth or gunfire as you complete missions through procedurally generated enemy territory.",
     "genres": [
       "action"
-    ],
-    "zip": "Gunslugs3.zip",
-    "size": 9547404,
-    "sha256": "ca2b9648a43cc1bcedb51826ad215283475a8ceefaa5644a172305b7bd7d7bd2",
-    "file": "gunslugs3.dat"
+    ]
   },
   {
     "id": "heroesofloot",
+    "zip": "heroesofloot.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/heroesofloot-port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Heroes of Loot",
     "description": "Battle dungeon monsters, collect treasure and complete quests in a fast-paced dungeon crawler.",
     "genres": [
       "action",
       "rpg"
-    ],
-    "zip": "HeroesofLoot.zip",
-    "size": 34531,
-    "sha256": "3f62ea3fc71aeac3ab753601fcf4a31e36a09cc8ab2b6c86070208db2dd79211",
-    "file": "HeroesOfLoot.jar"
+    ]
   },
   {
     "id": "heroesofloot2",
+    "zip": "HeroesofLoot2.zip",
+    "size": 64111,
+    "sha256": "8110fc3f38b9aa91a00254d9d06106e564450bb6ef4a80834efb2479c8796403",
+    "repository": "https://github.com/Pixelforge-Ports/heroesofloot2-port",
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/heroesofloot2-port/releases/download/1.0.1/HeroesofLoot2.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/heroesofloot2-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": false,
     "title": "Heroes of Loot 2",
     "description": "Switch between heroes to solve dungeon puzzles and fight through monster-filled rooms.",
     "genres": [
       "action",
       "rpg"
-    ],
-    "zip": "HeroesofLoot2.zip",
-    "size": 64111,
-    "sha256": "8110fc3f38b9aa91a00254d9d06106e564450bb6ef4a80834efb2479c8796403",
-    "file": "HeroesOfLoot2.jar"
+    ]
   },
   {
     "id": "meganoid",
+    "zip": "meganoid.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/meganoid-port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Meganoid",
     "description": "Explore dangerous generated spaceship levels, evade traps and collect upgrades in a challenging platformer.",
     "genres": [
       "action"
-    ],
-    "zip": "Meganoid.zip",
-    "size": 73582,
-    "sha256": "1890cb312b65a0012b7b3f694aae2630300597d6543ba406046a092cb36bd37e",
-    "file": "Meganoid.jar"
+    ]
   },
   {
     "id": "sirquestionnaire",
+    "zip": "sirquestionnaire.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/sirquestionnaire-port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Sir Questionnaire",
     "description": "Explore a dungeon through pairs of choices, collect equipment and learn how to defeat its creatures.",
     "genres": [
       "rpg",
       "strategy"
-    ],
-    "zip": "SirQuestionnaire.zip",
-    "size": 70764,
-    "sha256": "46f926f8852be6f5123a692d7c62cb92f8d1cf818bda54a9654814fe07323922",
-    "file": "SirQuestionnaire.jar"
+    ]
   },
   {
     "id": "snakecore",
+    "zip": "snakecore.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/snakecore-port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Snake Core",
     "description": "Lead a growing squad of soldiers through alien battles using Snake-style movement.",
     "genres": [
       "action"
-    ],
-    "zip": "SnakeCore.zip",
-    "size": 142128,
-    "sha256": "6b1eaec713be0ad31e760d53e1fe6dad5e1c42ad69eb0d0baf09f8d470f94a36",
-    "file": "Snake Core.jar"
+    ]
   },
   {
     "id": "spacegrunts",
+    "zip": "spacegrunts.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/spacegrunts-port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Space Grunts",
     "description": "Explore hostile space facilities and use weapons and items in turn-based tactical battles.",
     "genres": [
       "rpg",
       "strategy"
-    ],
-    "zip": "SpaceGrunts.zip",
-    "size": 66010,
-    "sha256": "2dc540472a862e2fe8ed958aded7132d7c8c746902ec29a2e5ff4f31508ff68a",
-    "file": "spacegrunts.dat"
+    ]
   },
   {
     "id": "spacegrunts2",
+    "zip": "spacegrunts2.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/spacegrunts2-port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
     "title": "Space Grunts 2",
     "description": "Combine turn-based exploration with card-based encounters in procedurally generated space facilities.",
     "genres": [
       "rpg",
       "strategy"
-    ],
-    "zip": "SpaceGrunts2.zip",
-    "size": 65840,
-    "sha256": "79b517fb28ffd67e84f5ae76b5f9e75b83545d4cd83939b707323a9fb7adf423",
-    "file": "spacegrunts2.dat"
+    ]
   }
 ]
