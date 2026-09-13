@@ -1,21 +1,24 @@
 [
   {
     "id": "residual",
-    "zip": "residual.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "Residual.zip",
+    "size": 51970,
+    "sha256": "2479d759e854053f6e05134c8c9e8abe4f5057d1429e91105bcf48eb8484c9f3",
     "repository": "https://github.com/Pixelforge-Ports/residual_port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
+    "ref": "1.4.0",
+    "download_url": "https://github.com/Pixelforge-Ports/residual_port/releases/download/1.4.0/Residual.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/residual_port/releases/tag/1.4.0",
+    "version": "1.4.0",
     "prerelease": false,
     "title": "Residual",
     "description": "Explore alien planets, gather resources and repair your ship in this procedurally generated survival platformer by Orangepixel.",
     "genres": [
       "action",
       "platformer"
-    ]
+    ],
+    "windows_version": "1.4.1",
+    "game_version": "1.4.1",
+    "game_platform": "Windows"
   },
   {
     "id": "ashworld",
@@ -33,7 +36,31 @@
     "genres": [
       "action",
       "platformer"
-    ]
+    ],
+    "windows_version": "1.8.1b",
+    "game_version": "1.8.1b",
+    "game_platform": "Windows"
+  },
+  {
+    "id": "gunslugs",
+    "zip": "gunslugs.zip",
+    "size": 0,
+    "sha256": null,
+    "repository": "https://github.com/Pixelforge-Ports/gunslug_port",
+    "ref": "main",
+    "download_url": null,
+    "release_url": null,
+    "version": null,
+    "prerelease": false,
+    "title": "Gunslugs",
+    "description": "Run, jump and shoot through chaotic pixel-art battlefields, smash scenery and rescue characters in this action platformer by Orangepixel.",
+    "genres": [
+      "action",
+      "platformer"
+    ],
+    "windows_version": null,
+    "game_version": "3.2.4",
+    "game_platform": "Android"
   },
   {
     "id": "gunslugs2",
@@ -51,7 +78,10 @@
     "genres": [
       "action",
       "platformer"
-    ]
+    ],
+    "windows_version": null,
+    "game_version": null,
+    "game_platform": "Windows"
   },
   {
     "id": "gunslugs3",
@@ -68,25 +98,31 @@
     "description": "Choose stealth or gunfire as you complete missions through procedurally generated enemy territory.",
     "genres": [
       "action"
-    ]
+    ],
+    "windows_version": "1.0.10b",
+    "game_version": "1.0.10b",
+    "game_platform": "Windows"
   },
   {
     "id": "heroesofloot",
-    "zip": "heroesofloot.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "HeroesofLoot.zip",
+    "size": 34531,
+    "sha256": "3f62ea3fc71aeac3ab753601fcf4a31e36a09cc8ab2b6c86070208db2dd79211",
     "repository": "https://github.com/Pixelforge-Ports/heroesofloot-port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
-    "prerelease": false,
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/heroesofloot-port/releases/download/1.0.1/HeroesofLoot.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/heroesofloot-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": true,
     "title": "Heroes of Loot",
     "description": "Battle dungeon monsters, collect treasure and complete quests in a fast-paced dungeon crawler.",
     "genres": [
       "action",
       "rpg"
-    ]
+    ],
+    "windows_version": "3.3.0",
+    "game_version": "3.3.0",
+    "game_platform": "Windows"
   },
   {
     "id": "heroesofloot2",
@@ -104,94 +140,112 @@
     "genres": [
       "action",
       "rpg"
-    ]
+    ],
+    "windows_version": "1.5.2",
+    "game_version": "1.5.2",
+    "game_platform": "Windows"
   },
   {
     "id": "meganoid",
-    "zip": "meganoid.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "Meganoid.zip",
+    "size": 73582,
+    "sha256": "1890cb312b65a0012b7b3f694aae2630300597d6543ba406046a092cb36bd37e",
     "repository": "https://github.com/Pixelforge-Ports/meganoid-port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/meganoid-port/releases/download/1.0.1/Meganoid.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/meganoid-port/releases/tag/1.0.1",
+    "version": "1.0.1",
     "prerelease": false,
     "title": "Meganoid",
     "description": "Explore dangerous generated spaceship levels, evade traps and collect upgrades in a challenging platformer.",
     "genres": [
       "action"
-    ]
+    ],
+    "windows_version": "2.2.3",
+    "game_version": "2.2.3",
+    "game_platform": "Windows"
   },
   {
     "id": "sirquestionnaire",
-    "zip": "sirquestionnaire.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "SirQuestionnaire.zip",
+    "size": 70764,
+    "sha256": "46f926f8852be6f5123a692d7c62cb92f8d1cf818bda54a9654814fe07323922",
     "repository": "https://github.com/Pixelforge-Ports/sirquestionnaire-port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
-    "prerelease": false,
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/sirquestionnaire-port/releases/download/1.0.1/SirQuestionnaire.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/sirquestionnaire-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": true,
     "title": "Sir Questionnaire",
     "description": "Explore a dungeon through pairs of choices, collect equipment and learn how to defeat its creatures.",
     "genres": [
       "rpg",
       "strategy"
-    ]
+    ],
+    "windows_version": "1.8.5b",
+    "game_version": "1.8.5b",
+    "game_platform": "Windows"
   },
   {
     "id": "snakecore",
-    "zip": "snakecore.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "SnakeCore.zip",
+    "size": 142128,
+    "sha256": "6b1eaec713be0ad31e760d53e1fe6dad5e1c42ad69eb0d0baf09f8d470f94a36",
     "repository": "https://github.com/Pixelforge-Ports/snakecore-port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
-    "prerelease": false,
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/snakecore-port/releases/download/1.0.1/SnakeCore.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/snakecore-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": true,
     "title": "Snake Core",
     "description": "Lead a growing squad of soldiers through alien battles using Snake-style movement.",
     "genres": [
       "action"
-    ]
+    ],
+    "windows_version": "1.6.1",
+    "game_version": "1.6.1",
+    "game_platform": "Windows"
   },
   {
     "id": "spacegrunts",
-    "zip": "spacegrunts.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "SpaceGrunts.zip",
+    "size": 66010,
+    "sha256": "2dc540472a862e2fe8ed958aded7132d7c8c746902ec29a2e5ff4f31508ff68a",
     "repository": "https://github.com/Pixelforge-Ports/spacegrunts-port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
-    "prerelease": false,
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/spacegrunts-port/releases/download/1.0.1/SpaceGrunts.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/spacegrunts-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": true,
     "title": "Space Grunts",
     "description": "Explore hostile space facilities and use weapons and items in turn-based tactical battles.",
     "genres": [
       "rpg",
       "strategy"
-    ]
+    ],
+    "windows_version": "1.7.5",
+    "game_version": "1.7.5",
+    "game_platform": "Windows"
   },
   {
     "id": "spacegrunts2",
-    "zip": "spacegrunts2.zip",
-    "size": 0,
-    "sha256": null,
+    "zip": "SpaceGrunts2.zip",
+    "size": 65840,
+    "sha256": "79b517fb28ffd67e84f5ae76b5f9e75b83545d4cd83939b707323a9fb7adf423",
     "repository": "https://github.com/Pixelforge-Ports/spacegrunts2-port",
-    "ref": "main",
-    "download_url": null,
-    "release_url": null,
-    "version": null,
-    "prerelease": false,
+    "ref": "1.0.1",
+    "download_url": "https://github.com/Pixelforge-Ports/spacegrunts2-port/releases/download/1.0.1/SpaceGrunts2.zip",
+    "release_url": "https://github.com/Pixelforge-Ports/spacegrunts2-port/releases/tag/1.0.1",
+    "version": "1.0.1",
+    "prerelease": true,
     "title": "Space Grunts 2",
     "description": "Combine turn-based exploration with card-based encounters in procedurally generated space facilities.",
     "genres": [
       "rpg",
       "strategy"
-    ]
+    ],
+    "windows_version": "2.0.1b",
+    "game_version": "2.0.1b",
+    "game_platform": "Windows"
   }
 ]

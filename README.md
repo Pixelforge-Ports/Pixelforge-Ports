@@ -101,3 +101,14 @@ Sponsors and Ko-fi URLs. Use complete HTTPS links. Empty URLs display a visibly
 unavailable card instead of sending visitors to an invented destination.
 The shared section is rendered before the footer on every page and is preserved
 by automatic catalog rebuilds.
+
+## Required Windows game versions
+
+Each game guide displays its required Windows game version beside the download.
+The version and full game-file instructions come from the selected release tag's
+`package/README.md`, not from the port release number. In the `## Get ... from GOG`
+section, document the version as `supported build (1.8.1b)` (using the actual game
+version), the full offline installer requirements, and the game archive SHA-256.
+Unknown versions are explicitly marked as undocumented; they are never guessed.
+Installer filenames and GOG installer revisions should be included in those
+instructions when known. Update this information before tagging each release.
